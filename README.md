@@ -12,3 +12,7 @@
 - Vite
 - CSS
 - Tailwind CSS
+
+# Deployed with Vercel
+
+- https://skate-antigravity.vercel.app/
