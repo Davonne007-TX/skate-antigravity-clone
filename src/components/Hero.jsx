@@ -5,11 +5,11 @@ export default function Hero() {
       <div className="relative z-10 flex  items-center justify-center h-full">
         <div className="flex flex-col hero-title-line gap-4 text-center text-4xl md:text-6xl  mt-40">
           <div className="flex flex-col gap-4">
-            <span className="text-white font-zen">National</span>
+            <span className="text-white font-zen">NATIONAL</span>
             <span className="text-purple-800 bg-black p-2 shadow-md font-zen  shadow-purple-900 skew-1">
-              Skateboarding
+              SKATEBOARDING
             </span>
-            <span className=" font-zen text-[#39FF14]">Skate Off</span>
+            <span className=" font-zen text-[#39FF14]">SKATE OFF</span>
           </div>
           <p className="text-white font-mono text-2xl mt-10">
             The biggest skateboarding competition in the world
