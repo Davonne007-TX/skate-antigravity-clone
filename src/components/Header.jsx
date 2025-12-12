@@ -8,7 +8,7 @@ export default function Header() {
   return (
     <header className="bg-black/90 shadow-lg w-full text-white p-4 flex items-center justify-between">
       <img
-        src="./images/boarding.png"
+        src="./images/boarding.webp"
         alt="Black and white skateboard with grafitti, image by ChatGPT created by Davonne Vigil  "
         className="w-20 shadow-md shadow-white"
       />

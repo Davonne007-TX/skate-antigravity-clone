@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="relative bg-[url('/images/skate.jpg')] bg-cover bg-center min-h-screen">
+    <section className="relative bg-[url('/images/skate.webp')] bg-cover bg-center min-h-screen">
       <div className="absolute inset-0 bg-black/70"></div>
       <div className="relative z-10 flex  items-center justify-center h-full">
         <div className="flex flex-col hero-title-line gap-4 text-center text-4xl md:text-6xl  mt-40">
